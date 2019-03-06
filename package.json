@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/AgileVentures/recognizeThis#readme",
   "dependencies": {
-    "seneca": "^3.8.0"
+    "express": "^4.16.4",
+    "seneca": "^3.8.0",
+    "seneca-web": "^2.2.1",
+    "seneca-web-adapter-express": "^1.1.2"
   }
 }
