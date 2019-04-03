@@ -36,4 +36,5 @@ module.exports = function( options ) {
     //   this.log.info('purchase',msg.purchase)
     //   respond()
     // })
+    // https://github.com/senecajs/seneca/issues/705
   }
